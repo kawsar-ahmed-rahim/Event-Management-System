@@ -241,6 +241,9 @@ With the frontend and backend on different Vercel domains, browsers often block 
 
 👉 **Live Website:** **https://your-frontend.vercel.app/**
 
+admin email: admin@example.com
+admin password: admin123
+
 👉 **API Health Check:** **https://your-backend.vercel.app/api/v1/health**
 
 ---
