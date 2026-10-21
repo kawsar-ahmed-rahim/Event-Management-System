@@ -239,7 +239,7 @@ With the frontend and backend on different Vercel domains, browsers often block 
 
 ## 🔗 Live Demo
 
-👉 **Live Website:** **https://your-frontend.vercel.app/**
+👉 **Live Website:** **https://event-management-system-61eb.vercel.app**
 
 admin email: admin@example.com
 admin password: admin123
